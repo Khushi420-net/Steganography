@@ -1,4 +1,5 @@
 # Steganography
+Requirement: Python 3 pip install CV2
 This project demonstrates a simple implementation of image steganography using Python and OpenCV. The application allows users to hide (encrypt) a secret message inside an image and later retrieve (decrypt) the message using a simple UI built with Tkinter.
 Data Concealment in Images – Hides text or binary data within image files without significant visual distortion.
 Least Significant Bit (LSB) Technique – Uses LSB modification to embed data in pixel values.
